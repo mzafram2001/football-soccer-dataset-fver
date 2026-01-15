@@ -1,4 +1,4 @@
-# ⚽️ football-soccer-dataset-fver
+# ⚽️ football-dataset-fver
 
 ![Status](https://img.shields.io/badge/Status-Free_Sample-orange)
 ![License](https://img.shields.io/badge/License-CC_BY_NC-blue)
