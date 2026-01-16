@@ -1,0 +1,240 @@
+[
+	{
+		"id" : 1,
+		"name" : "Alavés",
+		"code" : "ALA",
+		"color" : "#0232A0",
+		"country_id" : 4
+	},
+	{
+		"id" : 2,
+		"name" : "Athletic Club",
+		"code" : "BIL",
+		"color" : "#B0B0B0",
+		"country_id" : 4
+	},
+	{
+		"id" : 3,
+		"name" : "Atlético Madrid",
+		"code" : "ATM",
+		"color" : "#CB3524",
+		"country_id" : 4
+	},
+	{
+		"id" : 4,
+		"name" : "Barcelona",
+		"code" : "BAR",
+		"color" : "#A50044",
+		"country_id" : 4
+	},
+	{
+		"id" : 5,
+		"name" : "Celta Vigo",
+		"code" : "CEL",
+		"color" : "#8ABDFF",
+		"country_id" : 4
+	},
+	{
+		"id" : 6,
+		"name" : "Getafe",
+		"code" : "GET",
+		"color" : "#005999",
+		"country_id" : 4
+	},
+	{
+		"id" : 7,
+		"name" : "Mallorca",
+		"code" : "MLL",
+		"color" : "#7A0404",
+		"country_id" : 4
+	},
+	{
+		"id" : 8,
+		"name" : "Osasuna",
+		"code" : "OSA",
+		"color" : "#D91A21",
+		"country_id" : 4
+	},
+	{
+		"id" : 9,
+		"name" : "Real Betis",
+		"code" : "BET",
+		"color" : "#25961D",
+		"country_id" : 4
+	},
+	{
+		"id" : 10,
+		"name" : "Real Madrid",
+		"code" : "RMA",
+		"color" : "#FCF7F7",
+		"country_id" : 4
+	},
+	{
+		"id" : 11,
+		"name" : "Real Sociedad",
+		"code" : "RSO",
+		"color" : "#446175",
+		"country_id" : 4
+	},
+	{
+		"id" : 12,
+		"name" : "Sevilla",
+		"code" : "SEV",
+		"color" : "#FAFAFA",
+		"country_id" : 4
+	},
+	{
+		"id" : 13,
+		"name" : "Valencia",
+		"code" : "VAL",
+		"color" : "#FF8308",
+		"country_id" : 4
+	},
+	{
+		"id" : 14,
+		"name" : "Valladolid",
+		"code" : "VLL",
+		"color" : "#3D1169",
+		"country_id" : 4
+	},
+	{
+		"id" : 15,
+		"name" : "Rayo Vallecano",
+		"code" : "RAY",
+		"color" : "#333333",
+		"country_id" : 4
+	},
+	{
+		"id" : 16,
+		"name" : "Villarreal",
+		"code" : "VIL",
+		"color" : "#FFE667",
+		"country_id" : 4
+	},
+	{
+		"id" : 17,
+		"name" : "Espanyol",
+		"code" : "ESP",
+		"color" : "#0587D1",
+		"country_id" : 4
+	},
+	{
+		"id" : 18,
+		"name" : "Las Palmas",
+		"code" : "PAL",
+		"color" : "#FFE400",
+		"country_id" : 4
+	},
+	{
+		"id" : 19,
+		"name" : "Leganés",
+		"code" : "LEG",
+		"color" : "#DBB731",
+		"country_id" : 4
+	},
+	{
+		"id" : 20,
+		"name" : "Girona",
+		"code" : "GIR",
+		"color" : "#BD3541",
+		"country_id" : 4
+	},
+	{
+		"id" : 21,
+		"name" : "Granada",
+		"code" : "GRA",
+		"color" : "#D50032",
+		"country_id" : 4
+	},
+	{
+		"id" : 22,
+		"name" : "Elche",
+		"code" : "ELC",
+		"color" : "#00793F",
+		"country_id" : 4
+	},
+	{
+		"id" : 23,
+		"name" : "Cádiz",
+		"code" : "CAD",
+		"color" : "#FFD700",
+		"country_id" : 4
+	},
+	{
+		"id" : 24,
+		"name" : "Eibar",
+		"code" : "EIB",
+		"color" : "#FF9100",
+		"country_id" : 4
+	},
+	{
+		"id" : 25,
+		"name" : "Huesca",
+		"code" : "HUE",
+		"color" : "#003DA5",
+		"country_id" : 4
+	},
+	{
+		"id" : 26,
+		"name" : "Levante",
+		"code" : "LEV",
+		"color" : "#1E1E90",
+		"country_id" : 4
+	},
+	{
+		"id" : 27,
+		"name" : "Almería",
+		"code" : "ALM",
+		"color" : "#FF0000",
+		"country_id" : 4
+	},
+	{
+		"id" : 28,
+		"name" : "Málaga",
+		"code" : "MLG",
+		"color" : "#00489A",
+		"country_id" : 4
+	},
+	{
+		"id" : 29,
+		"name" : "Deportivo La Coruña",
+		"code" : "COR",
+		"color" : "#57175E",
+		"country_id" : 4
+	},
+	{
+		"id" : 30,
+		"name" : "Sporting Gijón",
+		"code" : "GIJ",
+		"color" : "#E2001A",
+		"country_id" : 4
+	},
+	{
+		"id" : 31,
+		"name" : "Oviedo",
+		"code" : "OVI",
+		"color" : "#094CA1",
+		"country_id" : 4
+	},
+	{
+		"id" : 32,
+		"name" : "Hércules",
+		"code" : "HRC",
+		"color" : "#0000FF",
+		"country_id" : 4
+	},
+	{
+		"id" : 33,
+		"name" : "Zaragoza",
+		"code" : "ZAR",
+		"color" : "#FF0010",
+		"country_id" : 4
+	},
+	{
+		"id" : 34,
+		"name" : "Racing Santander",
+		"code" : "RSA",
+		"color" : "#143E1B",
+		"country_id" : 4
+	}
+]
